@@ -47,6 +47,11 @@ make noGraph
 ./build <input_file> <output_file>
 ```
 ## Demo
-Test 1: [input](/Sample Input/test.in)/[output](/Sample Input/test.out)  
-![test1](/Sample Input/test.in.jpg "test1")
+Test 1: [input](https://github.com/mattwang44/algorithm-practice/blob/master/B%C3%A9zier%20curve/Sample%20Input/test.in) & [output](https://github.com/mattwang44/algorithm-practice/blob/master/Bézier%20curve/Sample%20Output/test.out)  
+<p style="text-align:center"><img src="./Sample Output/test.in.jpg" width="380"></p>  
 
+Test 2: [input](https://github.com/mattwang44/algorithm-practice/blob/master/B%C3%A9zier%20curve/Sample%20Input/test_5x5.in) & [output](https://github.com/mattwang44/algorithm-practice/blob/master/Bézier%20curve/Sample%20Output/test_5x5.out)  
+<p style="text-align:center"><img src="./Sample Output/test_5x5.in.jpg" width="380"></p> 
+
+Test 3: [input](https://github.com/mattwang44/algorithm-practice/blob/master/B%C3%A9zier%20curve/Sample%20Input/test_7x7.in) & [output](https://github.com/mattwang44/algorithm-practice/blob/master/Bézier%20curve/Sample%20Output/test_7x7.out)  
+<p style="text-align:center"><img src="./Sample Output/test_7x7.in.jpg" width="380"></p> 
