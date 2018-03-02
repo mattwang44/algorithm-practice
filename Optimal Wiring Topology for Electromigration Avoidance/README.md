@@ -26,7 +26,7 @@ The paper proposes a method to determine the wiring configuration with minimum w
 2. Following lines records the x- & y-coordinates of source & sink points and the amount of flow current.
 ```
 # Sample output
-142		# optimal wire area
+142		        # optimal wire area
 1 10 4 6 7		# a current amount=7 flow from (1, 10) to (4,6)
 10 7 4 6 1
 10 7 13 11 2
