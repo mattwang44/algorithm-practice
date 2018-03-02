@@ -1,6 +1,6 @@
 # Bézier curve
 
-This is a implementation of [Bézier curve](https://en.wikipedia.org/wiki/Bézier_curve) in C++. The resulting graph can be saved as jpg using [GNUplot](http://www.gnuplot.info).
+This is a implementation of [Bézier curve](https://en.wikipedia.org/wiki/Bézier_curve) using dynamic programming in C++. The resulting graph can be saved as .jpg using [GNUplot](http://www.gnuplot.info).
 
 
 ## Input & Output
