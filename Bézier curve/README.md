@@ -39,7 +39,7 @@ make
 ```
 or
 ```
-## GNUplot not installed, resulting graph will not be generated.
+# GNUplot not installed, resulting graph will not be generated.
 make noGraph
 ```
 ### Execute
