@@ -47,6 +47,6 @@ make noGraph
 ./build <input_file> <output_file>
 ```
 ## Demo
-Test 1: [input](./Sample Input/test.in)/[output](./Sample Input/test.out)  
-![test1](./Sample Input/test.in.jpg "test1")
+Test 1: [input](/Sample Input/test.in)/[output](/Sample Input/test.out)  
+![test1](/Sample Input/test.in.jpg "test1")
 
