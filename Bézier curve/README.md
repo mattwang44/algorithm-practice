@@ -31,7 +31,7 @@ Each of M lines records the x- & y-coordinates of the sampling points.
 500.00	0.00
 ```
 ## Compile & Execution
-###Compile
+### Compile
 A executable binary file named "build" will be generated.
 ``` 
 # If GNUplot is installed, generates the output file and resulting graph.
