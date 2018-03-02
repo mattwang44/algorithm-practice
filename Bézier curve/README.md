@@ -57,7 +57,7 @@ Test 3: [input](https://github.com/mattwang44/algorithm-practice/blob/master/B%C
 <p style="text-align:center"><img src="./Sample Output/test_7x7.in.jpg" width="380"></p> 
 
 ## Reference
-1. [Bezier Curves -- Denis Rizov] (https://denisrizov.com/2016/06/02/bezier-curves-unity-package-included/)
+1. [Bezier Curves -- Denis Rizov](https://denisrizov.com/2016/06/02/bezier-curves-unity-package-included/)
 
 2. [gnuplot_i.hpp](https://code.google.com/archive/p/gnuplot-cpp/downloads)
       
